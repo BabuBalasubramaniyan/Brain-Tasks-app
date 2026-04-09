@@ -1,0 +1,10 @@
+[
+  {
+    "principal": "arn:aws:iam::997233416470:user/project-1",
+    "permissions": ["AmazonEKSClusterAdminPolicy"]
+  },
+  {
+    "principal": "arn:aws:iam::997233416470:role/codebuild-Brain-tasks-app-service-role",
+    "permissions": ["AmazonEKSClusterAdminPolicy"]
+  }
+]
